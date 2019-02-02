@@ -6,7 +6,7 @@ The Jupyter notebooks are used along with [Nividia's DIGITS](https://github.com/
 **Framework Used**: Caffe
 
 ### Contents:
-1. [Introduction](https://github.com/anjali-chadha/nvidia-dli-course/blob/master/0-Train%20a%20Model.ipynb)(https://github.com/anjali-chadha/nvidia-dli-course/blob/master/1-New%20Data%20as%20a%20Goal.ipynb)
+1. Introduction [1](https://github.com/anjali-chadha/nvidia-dli-course/blob/master/0-Train%20a%20Model.ipynb), [2](https://github.com/anjali-chadha/nvidia-dli-course/blob/master/1-New%20Data%20as%20a%20Goal.ipynb)
 2. [Deployment](https://github.com/anjali-chadha/nvidia-dli-course/blob/master/2-Deployment.ipynb)
 3. [Improving Performance](https://github.com/anjali-chadha/nvidia-dli-course/blob/master/3-Improving%20Performance.ipynb)
 4. [Finding Whale Faces using AlexNet](https://github.com/anjali-chadha/nvidia-dli-course/blob/master/4-Finding%20Whale%20Faces.ipynb)
